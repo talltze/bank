@@ -1,10 +1,19 @@
 
-# > HSBC Rules
+# > HSBC HK
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,hsbc.hk
 DOMAIN-KEYWORD,hsbc
-# > CNCBI Rules
+# > CNCBI
 DOMAIN-SUFFIX,citicbank.com.hk
 DOMAIN-SUFFIX,cncbinternational.com
 DOMAIN-KEYWORD,citic
 DOMAIN-KEYWORD,cncb
+# > ZA Bank
+DOMAIN-SUFFIX,za.group
+DOMAIN-SUFFIX,za.group.hk
+DOMAIN-KEYWORD,zabank
+# > Wise
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,transferwise.com
+DOMAIN-KEYWORD,wise
+DOMAIN-KEYWORD,transferwise
