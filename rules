@@ -1,9 +1,5 @@
 
 # > HSBC Rules
-DOMAIN-SUFFIX,www.hsbc.com.hk
-DOMAIN-SUFFIX,cdntm.hsbc.com.hk
-DOMAIN-SUFFIX,rbwm-api.hsbc.com.hk
-DOMAIN-SUFFIX,cdnbc-wup.hsbc.com.hk
-DOMAIN-SUFFIX,m.mobilex-static.hsbc.com.hk
-DOMAIN-SUFFIX,investments3.personal-banking.hsbc.com.hk
-DOMAIN-SUFFIX,investments4.personal-banking.hsbc.com.hk
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,hsbc.hk
+DOMAIN-KEYWORD,hsbc
