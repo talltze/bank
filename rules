@@ -3,3 +3,8 @@
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,hsbc.hk
 DOMAIN-KEYWORD,hsbc
+# > CNCBI Rules
+DOMAIN-SUFFIX,citicbank.com.hk
+DOMAIN-SUFFIX,cncbinternational.com
+DOMAIN-KEYWORD,citic
+DOMAIN-KEYWORD,cncb
