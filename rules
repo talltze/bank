@@ -13,6 +13,12 @@ DOMAIN-KEYWORD,cncb
 DOMAIN-SUFFIX,za.group
 DOMAIN-SUFFIX,za.group.hk
 DOMAIN-KEYWORD,zabank
+# > OCBC Singapore
+DOMAIN-SUFFIX,ocbc.com
+DOMAIN-SUFFIX,ocbc.com.sg
+DOMAIN-SUFFIX,ocbcgroup.com
+DOMAIN-SUFFIX,api.ocbc.com
+DOMAIN-KEYWORD,ocbc
 # > Wise
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,transferwise.com
